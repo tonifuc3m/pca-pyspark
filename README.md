@@ -6,4 +6,4 @@ This Python 3 notebook was compiled on the Databricks environment:
   
 In it we show how to use PCA and how to obtain the optimum number of PCs in PySpark.
 
-To load the dataset it must be uploaded to the Databricks Data section.
+To load the dataset it must be unzipped and uploaded to the Databricks Data section.
